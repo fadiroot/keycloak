@@ -96,9 +96,12 @@ quarkus/data/*.db
 # JENV
 .java-version
 
-.env
-.env.test
 
 # Keycloak state dir as suggested in the docs
 # -Dkc.home.dir=.kc
 .kc
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
+branch_structure.json
